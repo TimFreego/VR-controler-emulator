@@ -1,0 +1,5 @@
+{
+  "name": "VR Controller Emulator",
+  "description": "Emulates a VR controller using Android accelerometer and gyroscope data via WebSockets.",
+  "requestFramePermissions": []
+}
